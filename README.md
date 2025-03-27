@@ -1,4 +1,4 @@
-![logo}(https://github.com/jyoti-5906/Jyoti/blob/main/github-header-image%5B1%5D.png)
+![logo](https://github.com/jyoti-5906/Jyoti/blob/main/github-header-image%5B1%5D.png)
 <h1 align="center">Hi 👋, I'm Jyoti</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
