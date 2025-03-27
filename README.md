@@ -1,7 +1,7 @@
 ![logo](https://github.com/jyoti-5906/Jyoti/blob/main/github-header-image%5B1%5D.png)
 <h1 align="center">Hi 👋, I'm Jyoti</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<img align="right" alt="coding" width=300 boder-radius=10 src="[paste your own link](https://media1.tenor.com/m/GfSX-u7VGM4AAAAd/coding.gif)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyoti-5906&label=Profile%20views&color=0e75b6&style=flat" alt="jyoti-5906" /> </p>
 
 - 🔭 I’m currently working on [Travelling website](https://1drv.ms/b/c/576b9a9fc4b834b0/EV2lPHN1iX1Lk8vbhp6TgR8BlitDjwJdiJf91FQH5FstaQ?e=eSlxNC)
